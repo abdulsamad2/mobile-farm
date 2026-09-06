@@ -9,10 +9,6 @@ authenticated session.
 Running this on real mobile devices — rather than in a datacentre — means the
 sessions carry ordinary residential mobile network characteristics.
 
-> **Screenshot:** _not yet captured._ Run `npm start`, open the app in Expo Go
-> or a simulator, screenshot the slot grid, save it to `docs/screenshot.png`,
-> then replace this block with: `![Slot controller](docs/screenshot.png)`
-
 ## How it works
 
 ```
